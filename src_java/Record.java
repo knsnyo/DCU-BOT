@@ -25,7 +25,7 @@ public class Record {
 	protected String[] data;
 	protected String str_stt = " ";
 	private String kakao_stt_url = "https://kakaoi-newtone-openapi.kakao.com/v1/recognize";
-	private String rest_api_key = "c01abba110b4e11f5b7257ff54237910";
+	private String rest_api_key = "APP-KEY";
 
 	protected boolean running;
 	protected ByteArrayOutputStream out;
