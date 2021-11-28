@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Record
+comment1.params=
+comment1.target=java.lang.String\ changeVoiceToText()
+comment2.params=
+comment2.target=void\ recordVoice()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=void\ saveVoiceToFile()
+comment5.params=
+comment5.target=javax.sound.sampled.AudioFormat\ getFormat()
+comment6.params=
+comment6.target=java.lang.String\ getStr_stt()
+comment7.params=
+comment7.target=void\ setStr_stt()
+comment8.params=
+comment8.target=boolean\ getRunning()
+comment9.params=running
+comment9.target=void\ setRunning(boolean)
+numComments=10
